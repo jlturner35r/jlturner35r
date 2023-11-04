@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jlturner35r
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Jamie
+- 👀 I’m interested in 
 - 🌱 I’m currently learning sql and python
 - 💞️ I’m looking to collaborate on learning more
 - 📫 How to reach me ...
